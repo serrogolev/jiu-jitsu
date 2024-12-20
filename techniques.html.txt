@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Техники Jiu-Jitsu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Техники Jiu-Jitsu</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="techniques.html">Техники</a></li>
+                <li><a href="training_plan.html">План тренировок</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Основные техники</h2>
+        <ul>
+            <li><strong>Захваты:</strong> Описание различных захватов, таких как замки и контроль позиций.</li>
+            <li><strong>Болевые приёмы:</strong> Техники для вывода противника из строя с использованием суставов.</li>
+            <li><strong>Удушающие приёмы:</strong> Методы нейтрализации противника через контроль дыхания.</li>
+        </ul>
+        <p>Техники являются основой для эффективной борьбы в Jiu-Jitsu и требуют постоянной практики для их освоения.</p>
+    </section>
+    <footer>
+        <p>© 2024 Jiu-Jitsu</p>
+    </footer>
+</body>
+</html>

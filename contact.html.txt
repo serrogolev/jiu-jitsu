@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакты</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Контакты</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="techniques.html">Техники</a></li>
+                <li><a href="training_plan.html">План тренировок</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Свяжитесь со мной</h2>
+        <ul>
+            <li><strong>Email:</strong> example@email.com</li>
+            <li><strong>Instagram:</strong> @your_jiujitsu</li>
+            <li><strong>Телефон:</strong> +7 (XXX) XXX-XX-XX</li>
+        </ul>
+    </section>
+    <footer>
+        <p>© 2024 Jiu-Jitsu</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jiu-Jitsu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать в мир Jiu-Jitsu</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="techniques.html">Техники</a></li>
+                <li><a href="achievements.html">Мои достижения</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Что такое Jiu-Jitsu?</h2>
+        <p>Jiu-Jitsu - это боевое искусство, которое концентрируется на борьбе и самозащите...</p>
+    </section>
+    <footer>
+        <p>© 2024 Jiu-Jitsu</p>
+    </footer>
+</body>
+</html>

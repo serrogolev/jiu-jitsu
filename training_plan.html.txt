@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>План тренировок</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Мой план тренировок по Jiu-Jitsu</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="techniques.html">Техники</a></li>
+                <li><a href="training_plan.html">План тренировок</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Еженедельный план тренировок</h2>
+        <ul>
+            <li><strong>Понедельник:</strong> Техника (захваты и болевые приемы)</li>
+            <li><strong>Вторник:</strong> Силовая подготовка (кардио + силовые тренировки)</li>
+            <li><strong>Среда:</strong> Спарринги и тактическая подготовка</li>
+            <li><strong>Четверг:</strong> Техника (порные комбинации)</li>
+            <li><strong>Пятница:</strong> Легкие спарринги + растяжка</li>
+            <li><strong>Суббота:</strong> Кардио + видеоматериалы (анализ матчей)</li>
+            <li><strong>Воскресенье:</strong> Отдых и восстановление</li>
+        </ul>
+        <p>Мой тренировочный режим направлен на улучшение физической формы и освоение ключевых техник jiu-jitsu.</p>
+    </section>
+    <footer>
+        <p>© 2024 Jiu-Jitsu</p>
+    </footer>
+</body>
+</html>
